@@ -1,0 +1,36 @@
+HTTrack3.48-21 launched on Sat, 04 Aug 2018 11:05:32 at https://dichvuthongtin.dkkd.gov.vn +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://dichvuthongtin.dkkd.gov.vn -O "/home/kurro/websites/g" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:05:33	Warning: 	Temporary Redirect for https://dichvuthongtin.dkkd.gov.vn/robots.txt
+11:05:33	Warning: 	Redirected link is identical because of 'URL Hack' option: https://dichvuthongtin.dkkd.gov.vn/robots.txt and https://dichvuthongtin.dkkd.gov.vn/robots.txt
+11:05:33	Warning: 	Can not bear crazy server (Temporary Redirect) for https://dichvuthongtin.dkkd.gov.vn/robots.txt
+11:05:33	Warning: 	Found for https://dichvuthongtin.dkkd.gov.vn/
+11:05:33	Warning: 	File has moved from https://dichvuthongtin.dkkd.gov.vn/ to /inf/default.aspx
+11:06:05	Warning: 	link is probably looping, type unknown, aborting: https://dichvuthongtin.dkkd.gov.vn/auth/Public/LogOn.aspx?ReturnUrl=%2finf%2fPOST
+11:06:06	Warning: 	Found for https://dichvuthongtin.dkkd.gov.vn/inf/Firefox/
+11:06:06	Warning: 	File has moved from https://dichvuthongtin.dkkd.gov.vn/inf/Firefox/ to /auth/Public/LogOn.aspx?ReturnUrl=%2finf%2fFirefox%2f
+11:06:07	Warning: 	Found for https://dichvuthongtin.dkkd.gov.vn/inf/AppleWebKit/
+11:06:07	Warning: 	File has moved from https://dichvuthongtin.dkkd.gov.vn/inf/AppleWebKit/ to /auth/Public/LogOn.aspx?ReturnUrl=%2finf%2fAppleWebKit%2f
+11:06:08	Warning: 	Found for https://dichvuthongtin.dkkd.gov.vn/inf/Opera/
+11:06:08	Warning: 	File has moved from https://dichvuthongtin.dkkd.gov.vn/inf/Opera/ to /auth/Public/LogOn.aspx?ReturnUrl=%2finf%2fOpera%2f
+11:06:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://dichvuthongtin.dkkd.gov.vn/inf/WebResource.axd?d=7lhywdDAzXdK3qb5eXbD5gkwqn8PUVBY40WM7oFhN9KZ0N01iB9K1bTgaUs2OINksaBO5xo-MH3Z3GlgGDCHws0ePtE1&t=635145251460000000
+11:06:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://dichvuthongtin.dkkd.gov.vn/inf/JavaScript/Assets.ashx?r=1F6D0434B95B16E2BA4D8E974B240B1C
+11:06:10	Warning: 	link is probably looping, type unknown, aborting: https://dichvuthongtin.dkkd.gov.vn/auth/Public/LogOn.aspx?ReturnUrl=%2finf%2fPOST
+11:06:12	Error: 	"Not Found" (404) at link https://dichvuthongtin.dkkd.gov.vn/inf/Plugins/cluetip/images/darrowright.gif (from https://dichvuthongtin.dkkd.gov.vn/inf/Layout/Assets.ashx?r=A9C9715AE5DF28529E4D64B25A53D677)
+11:06:12	Error: 	"Not Found" (404) at link https://dichvuthongtin.dkkd.gov.vn/inf/Plugins/cluetip/images/darrowdown.gif (from https://dichvuthongtin.dkkd.gov.vn/inf/Layout/Assets.ashx?r=A9C9715AE5DF28529E4D64B25A53D677)
+11:06:12	Error: 	"Not Found" (404) at link https://dichvuthongtin.dkkd.gov.vn/inf/Plugins/cluetip/images/darrowup.gif (from https://dichvuthongtin.dkkd.gov.vn/inf/Layout/Assets.ashx?r=A9C9715AE5DF28529E4D64B25A53D677)
+11:06:13	Error: 	"Not Found" (404) at link https://dichvuthongtin.dkkd.gov.vn/inf/Plugins/jqueryui/images/ui-anim_basic_16x16.gif (from https://dichvuthongtin.dkkd.gov.vn/inf/Layout/Assets.ashx?r=A9C9715AE5DF28529E4D64B25A53D677)
+11:06:13	Warning: 	HTML file (843 bytes) retransferred due to lack of cache: https://dichvuthongtin.dkkd.gov.vn/inf/Firefox/
+11:06:19	Warning: 	Found for https://dichvuthongtin.dkkd.gov.vn/inf/Firefox/
+11:06:19	Warning: 	File has moved from https://dichvuthongtin.dkkd.gov.vn/inf/Firefox/ to /auth/Public/LogOn.aspx?ReturnUrl=%2finf%2fFirefox%2f
+11:06:20	Error: 	"Not Found" (404) at link https://dichvuthongtin.dkkd.gov.vn/inf/MicrosoftAjaxWebForms.js (from https://dichvuthongtin.dkkd.gov.vn/inf/ScriptResource.axd?d=JndOIz7JjMWVIsaEtrj0mbv3Jx3yT7ywOSPPNSZJBhaUcCshdwGMd68VmMstUIBVCCrvyGhktHzrEOWi6o2UWFFH9JECZZwSTZxhZqzgI32K5pUcY6Zy8mlBVU8ozi51VXw8PwYcsGneMesSKskVXqYPFzfijRRpARaI58wbFdRtB2go0&t=ca758f3)
+11:06:20	Error: 	"Not Found" (404) at link https://dichvuthongtin.dkkd.gov.vn/inf/MicrosoftAjaxSerialization.js (from https://dichvuthongtin.dkkd.gov.vn/inf/ScriptResource.axd?d=JndOIz7JjMWVIsaEtrj0mbv3Jx3yT7ywOSPPNSZJBhaUcCshdwGMd68VmMstUIBVCCrvyGhktHzrEOWi6o2UWFFH9JECZZwSTZxhZqzgI32K5pUcY6Zy8mlBVU8ozi51VXw8PwYcsGneMesSKskVXqYPFzfijRRpARaI58wbFdRtB2go0&t=ca758f3)
+11:06:20	Error: 	"Not Found" (404) at link https://dichvuthongtin.dkkd.gov.vn/inf/MicrosoftAjaxNetwork.js (from https://dichvuthongtin.dkkd.gov.vn/inf/ScriptResource.axd?d=JndOIz7JjMWVIsaEtrj0mbv3Jx3yT7ywOSPPNSZJBhaUcCshdwGMd68VmMstUIBVCCrvyGhktHzrEOWi6o2UWFFH9JECZZwSTZxhZqzgI32K5pUcY6Zy8mlBVU8ozi51VXw8PwYcsGneMesSKskVXqYPFzfijRRpARaI58wbFdRtB2go0&t=ca758f3)
+
+HTTrack Website Copier/3.48-21 mirror complete in 48 seconds : 141 links scanned, 143 files written (2022768 bytes overall) [1602652 bytes received at 33388 bytes/sec], 1324135 bytes transferred using HTTP compression in 6 files, ratio 26%, 12.3 requests per connection
+(7 errors, 18 warnings, 0 messages)

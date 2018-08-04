@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dichvuthongtin.dkkd.gov.vn	TRUE	/	FALSE	1999999999	BPC	26977d3192429ad93d2e1aa96776a85e
+dichvuthongtin.dkkd.gov.vn	TRUE	/	FALSE	1999999999	fw_auth	f41db1ff10bb222f4f6556b3358050b9
+dichvuthongtin.dkkd.gov.vn	TRUE	/	FALSE	1999999999	VIBRIP3_INF_SSC	xc03h504vyfuox0xkkmfamj3
+dichvuthongtin.dkkd.gov.vn	TRUE	/	FALSE	1999999999	VIBRIP3_SSC	hv4c5auvfs2rqvsh1flyvuyr
+
